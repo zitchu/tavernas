@@ -1,0 +1,12 @@
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.verde-claro {
+  color: #93b29a;
+}
+
+.bg-verde-claro {
+  background-color: #93b29a;
+}

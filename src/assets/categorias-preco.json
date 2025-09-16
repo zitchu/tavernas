@@ -1,0 +1,26 @@
+[
+  {
+    "categoria": "Suja/Decadente/Estrada",
+    "preco_min": 1,
+    "preco_max": 5,
+    "moeda": "cp"
+  },
+  {
+    "categoria": "Rústica/Modesta/Rural",
+    "preco_min": 5,
+    "preco_max": 10,
+    "moeda": "cp"
+  },
+  {
+    "categoria": "Popular/Animada/Tradicional",
+    "preco_min": 5,
+    "preco_max": 10,
+    "moeda": "sp"
+  },
+  {
+    "categoria": "Luxuosa/Nobre/Majestosa",
+    "preco_min": 2,
+    "preco_max": 5,
+    "moeda": "gp"
+  }
+]

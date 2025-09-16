@@ -1,0 +1,199 @@
+{
+  "suja_decadente_estrada": [
+    {
+      "nome": "O Barril Quebrado",
+      "atmosfera": "Suja e barulhenta",
+      "especialidade": "Cerveja aguada",
+      "preco": "2 cp"
+    },
+    {
+      "nome": "O Grifo Manco",
+      "atmosfera": "Estrada decadente",
+      "especialidade": "Carne de porco azeda",
+      "preco": "2 cp"
+    },
+    {
+      "nome": "O Sino Partido",
+      "atmosfera": "Antiga e em ruínas",
+      "especialidade": "Cerveja grossa",
+      "preco": "2 cp"
+    },
+    {
+      "nome": "A Tocha Apagada",
+      "atmosfera": "Escura e malcheirosa",
+      "especialidade": "Sopa rala de legumes",
+      "preco": "1 cp"
+    },
+    {
+      "nome": "O Corvo Morto",
+      "atmosfera": "Sombria e decadente",
+      "especialidade": "Vinho azedo",
+      "preco": "2 cp"
+    },
+    {
+      "nome": "A Pata Queimada",
+      "atmosfera": "Enfumaçada e abafada",
+      "especialidade": "Carne malcozida",
+      "preco": "3 cp"
+    }
+  ],
+
+  "rustica_modesta_rural": [
+    {
+      "nome": "O Martelo e a Caneca",
+      "atmosfera": "Rústica de mineiros",
+      "especialidade": "Ensopado de carne dura",
+      "preco": "5 cp"
+    },
+    {
+      "nome": "A Rosa de Ferro",
+      "atmosfera": "Modesta mas acolhedora",
+      "especialidade": "Vinho caseiro",
+      "preco": "1 sp"
+    },
+    {
+      "nome": "O Lobo Faminto",
+      "atmosfera": "Rural e simples",
+      "especialidade": "Carne de caça defumada",
+      "preco": "1 sp"
+    },
+    {
+      "nome": "O Cavalo Manchado",
+      "atmosfera": "Rural de estrada",
+      "especialidade": "Ensopado de batata",
+      "preco": "5 cp"
+    },
+    {
+      "nome": "A Botija de Barro",
+      "atmosfera": "Simples e barata",
+      "especialidade": "Água de poço fresca",
+      "preco": "1 cp"
+    },
+    {
+      "nome": "O Cão de Três Pernas",
+      "atmosfera": "Popular e alegre",
+      "especialidade": "Ensopado de cordeiro",
+      "preco": "1 sp"
+    },
+    {
+      "nome": "A Estalagem do Milharal",
+      "atmosfera": "Cheiro de palha e lenha",
+      "especialidade": "Pão de milho fresco",
+      "preco": "6 cp"
+    },
+    {
+      "nome": "A Vaca Pintada",
+      "atmosfera": "Decorada com símbolos rurais",
+      "especialidade": "Queijo artesanal",
+      "preco": "1 sp"
+    }
+  ],
+
+  "popular_animada_tradicional": [
+    {
+      "nome": "A Fogueira Eterna",
+      "atmosfera": "Grande e calorosa",
+      "especialidade": "Carne assada na brasa",
+      "preco": "1 gp"
+    },
+    {
+      "nome": "O Galo de Bronze",
+      "atmosfera": "Tradicional e respeitável",
+      "especialidade": "Vinho tinto envelhecido",
+      "preco": "2 gp"
+    },
+    {
+      "nome": "A Ânfora Estalada",
+      "atmosfera": "Popular entre marinheiros",
+      "especialidade": "Rum salgado",
+      "preco": "5 sp"
+    },
+    {
+      "nome": "O Ganso Falastrão",
+      "atmosfera": "Animada e caótica",
+      "especialidade": "Caldo picante",
+      "preco": "8 sp"
+    },
+    {
+      "nome": "O Machado Cantante",
+      "atmosfera": "Alegre e ruidosa",
+      "especialidade": "Cerveja forte",
+      "preco": "1 gp"
+    },
+    {
+      "nome": "O Anel do Mercador",
+      "atmosfera": "Refinada de comércio",
+      "especialidade": "Licor de especiarias",
+      "preco": "2 gp"
+    },
+    {
+      "nome": "O Tinteiro Vazio",
+      "atmosfera": "Estranha e silenciosa",
+      "especialidade": "Vinho preto encorpado",
+      "preco": "1 gp"
+    },
+    {
+      "nome": "O Rato Alegre",
+      "atmosfera": "Popular com viajantes",
+      "especialidade": "Cerveja leve e barata",
+      "preco": "6 sp"
+    },
+    {
+      "nome": "A Canção do Pescador",
+      "atmosfera": "Cheia de música e histórias",
+      "especialidade": "Ensopado de peixe fresco",
+      "preco": "9 sp"
+    }
+  ],
+
+  "luxuosa_nobre_majestosa": [
+    {
+      "nome": "O Dragão Adormecido",
+      "atmosfera": "Rica e luxuosa",
+      "especialidade": "Hidromel raro",
+      "preco": "2 gp"
+    },
+    {
+      "nome": "A Caneca Dourada",
+      "atmosfera": "Luxuosa, cheia de nobres",
+      "especialidade": "Cerveja anã importada",
+      "preco": "3 gp"
+    },
+    {
+      "nome": "O Véu Carmesim",
+      "atmosfera": "Luxuosa, discreta",
+      "especialidade": "Vinho de especiarias raras",
+      "preco": "3 gp"
+    },
+    {
+      "nome": "A Raposa Prateada",
+      "atmosfera": "Nobre e elegante",
+      "especialidade": "Caça refinada",
+      "preco": "4 gp"
+    },
+    {
+      "nome": "A Pérola do Mar",
+      "atmosfera": "Luxuosa para marinheiros",
+      "especialidade": "Frutos do mar grelhados",
+      "preco": "3 gp"
+    },
+    {
+      "nome": "O Sol Dourado",
+      "atmosfera": "Majestosa, nobre",
+      "especialidade": "Hidromel solar lendário",
+      "preco": "5 gp"
+    },
+    {
+      "nome": "O Cetro Rubro",
+      "atmosfera": "Pomposa e régia",
+      "especialidade": "Vinho rubro raro",
+      "preco": "6 gp"
+    },
+    {
+      "nome": "A Lua de Cristal",
+      "atmosfera": "Sofisticada e misteriosa",
+      "especialidade": "Coquetéis mágicos",
+      "preco": "7 gp"
+    }
+  ]
+}
